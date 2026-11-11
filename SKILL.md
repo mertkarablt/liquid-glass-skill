@@ -11,8 +11,7 @@ description: >-
   Apple-made or "liquid glass": "iOS style", "macOS style", "Liquid Glass",
   "glassmorphism", "frosted glass", "refraction", SF Pro typography, "Apple
   gibi görünsün", "cam efekti", "buzlu cam", "kırılma efekti", or when an
-  Apple-style UI looks fake. Not for app flows, navigation or screen specs
-  (use `mobile-ux-designer`).
+  Apple-style UI looks fake.
 ---
 
 # Apple Liquid Glass — the design language, on any platform
